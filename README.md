@@ -20,7 +20,6 @@ This report aims to optimize a company’s investment strategy over a 12-month p
 
 The data comprises estimated monthly receipts and expenditures for a company, alongside rates of return from various certificates of deposit (CDs) offered by two banks, CIT and NBD. This dataset serves as the foundation for cash flow analysis and investment strategy formulation.
 
-Data Source: [https://ssc.ca/sites/default/files/case-studies/ssc_case_study_2_inflammatory_bowel_disease.xlsx)
 
 ## Research Questions
 
